@@ -5,8 +5,7 @@ a python script to manage comments on a WordPress powered website
 
 Files
 ------
-* *icons/* - directory containing the icon that shows up on the taskbar. Also used as the program icon
-  |- *wpmini-grey.png* - this is the icon :)
+* *icons/wpmini-grey.png* - the icon that shows up on the taskbar. Also used as the program icon.
 
 * *license.txt* - the complete text for the GNU Gpl v2
 
